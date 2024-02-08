@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Logo](https://drive.google.com/uc?export=download&id=1fh2c68mFxmglXi9K3kNU5cLcOw8q6HuG) Harmony - Migraine Manager
+# Harmony - Migraine Manager
 
 </div>
 
